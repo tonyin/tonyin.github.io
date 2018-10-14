@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+title: TY Tales
+description: Personal blog of TY
+logo: assets/img/logo.png
+google_analytics: 
