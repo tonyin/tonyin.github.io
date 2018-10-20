@@ -6,6 +6,6 @@ plugins:
   - jekyll-seo-tag
 
 title: TY Tales
-description: Personal blog of TY
+description: Blog
 logo: assets/img/logo.png
 google_analytics: 
