@@ -1,3 +1,19 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+.header {
+    width: 280px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+section {
+    width: 640px;
+    float: right;
+    padding-bottom: 50px;
+}
