@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reclaimed Territory
-image: "/content/images/2017/01/touchbar.png"
+image: "/assets/img/2017/01/touchbar.png"
 date: '2017-01-01 00:47:41'
 tags:
 - mbp
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div align="center">
-![esc key](/content/images/2017/01/esc-key.png)
+![esc key](/assets/img/2017/01/esc-key.png)
 <p style="font-style:italic;">Keyboard symbol for "Escape"</p>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abundance Game
-image: "/content/images/2016/12/Survivorship-bias.png"
+image: "/assets/img/2016/12/Survivorship-bias.png"
 date: '2016-12-19 06:38:44'
 tags:
 - life

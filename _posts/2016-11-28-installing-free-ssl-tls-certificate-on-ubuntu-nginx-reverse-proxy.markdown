@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing free SSL/TLS certificate on Ubuntu Nginx reverse proxy
-image: "/content/images/2016/11/exploded.gif"
+image: "/assets/img/2016/11/exploded.gif"
 date: '2016-11-28 00:55:53'
 tags:
 - howto

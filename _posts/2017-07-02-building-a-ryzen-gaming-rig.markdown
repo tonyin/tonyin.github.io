@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building A Ryzen Gaming Rig
-image: "/content/images/2017/07/ryzen-5.jpg"
+image: "/assets/img/2017/07/ryzen-5.jpg"
 date: '2017-07-02 19:15:57'
 tags:
 - howto

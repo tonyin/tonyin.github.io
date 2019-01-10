@@ -31,7 +31,7 @@ Cynically, countries really just want their cut (taxes).
 
 ## Bitcoin “Lightning” Network Goes Mainnet
 
-![lightning-nodes](/content/images/2018/03/lnd-nodes.png)
+![lightning-nodes](/assets/img/2018/03/lnd-nodes.png)
 *Snapshot of Bitcoin Lightning-enabled nodes*
 
 Bitcoin ([$BTC](https://onchainfx.com/asset/bitcoin)), like its younger sibling Ethereum ([$ETH](https://onchainfx.com/asset/ethereum)), has faced a daunting [scalability problem](https://en.wikipedia.org/wiki/Bitcoin_scalability_problem) since its rise to mainstream attention. Every Bitcoin transaction needs to be verified and broadcasted on the blockchain itself, leading to a bottleneck in

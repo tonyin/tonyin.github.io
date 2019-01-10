@@ -9,8 +9,8 @@ tags:
 
 In Chicago, I paid $2400 per month for a 2bd/2ba condo in the heart of the loop (downtown). No such luck out in the Bay Area. In San Francisco, finding a $2400 per month studio is a steal, which is why I jumped on a Craigslist ad for "`Eye-Catching Completely Furnished 1BR Apartment Near Muni/BART Station`" at $2200 per month. The apartment was purportedly downtown and a few blocks from the Montgomery Bart station. The photos looked good, and the timing worked out.
 
-![Bedroom](/content/images/2014/Sep/Bedroom.jpg)
-![Living Room](/content/images/2014/Sep/Living-room.jpg)
+![Bedroom](/assets/img/2014/Sep/Bedroom.jpg)
+![Living Room](/assets/img/2014/Sep/Living-room.jpg)
 
 The first couple of emails we traded seemed quite innocent. Her(?) grammar passed a quick read-through and the content was consistent with the jumble of posts and marketing-speak that pervades Craigslist as it is today. I should have taken the time to read the emails more carefully, but there’s a strong tendency to skim when you’re dealing with many of these. I was almost at the point of filling out the initial tenant form, complete with personal details, to demonstrate the seriousness of my intent. Obviously I would have done more due diligence if any money was to be transferred (I reassure myself). What scares me is the fact that I was so ready to hand over all my personal details to this scammer.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improving ability to remember short-term data (like 2FA codes)
-image: "/content/images/2017/07/SNP_2909001_en_v0.png"
+image: "/assets/img/2017/07/SNP_2909001_en_v0.png"
 date: '2017-07-06 18:44:26'
 tags:
 - memory

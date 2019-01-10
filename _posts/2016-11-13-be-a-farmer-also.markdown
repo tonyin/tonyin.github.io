@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be a Farmer, Also
-image: "/content/images/2016/11/pexels-photo-28900-1.jpg"
+image: "/assets/img/2016/11/pexels-photo-28900-1.jpg"
 date: '2016-11-13 20:01:19'
 tags:
 - habits

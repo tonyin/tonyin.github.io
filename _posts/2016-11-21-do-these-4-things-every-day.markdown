@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do These 4 Things Every Day
-image: "/content/images/2016/11/vitruvian_man-1.jpg"
+image: "/assets/img/2016/11/vitruvian_man-1.jpg"
 date: '2016-11-21 02:02:00'
 tags:
 - habits
@@ -18,7 +18,7 @@ The surest way to a happy and healthy life is good habits. We may not always hav
 
 ### Mind
 **Do something that hurts your brain** (in a good way). Anything worth doing will be hard, and one of the best gauges of mental progress is how hard your brain has to work. The table below is a from a [post](https://www.farnamstreetblog.com/2016/11/science-of-success/) that illustrates the benefits of doing something hard: try to descramble the words from List A vs the words from List B.
-![](/content/images/2016/11/mind.png)
+![](/assets/img/2016/11/mind.png)
 List A was a hell of a lot easier, right? But you can breeze through List A and not remember a thing. List B, on the other hand, is harder to descramble which in turn will help you become better at descrambling and even remembering words. Find what makes your brain hurt and you will grow in that direction.
 
 ### Body

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meetings Primer
-image: "/content/images/2017/05/pexels-photo-398532.jpg"
+image: "/assets/img/2017/05/pexels-photo-398532.jpg"
 date: '2017-05-19 21:45:17'
 tags:
 - meetings

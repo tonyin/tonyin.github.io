@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crypto Figures Deck of Cards (Chinese translation)
-image: "/content/images/2018/01/crypto_cards0.png"
+image: "/assets/img/2018/01/crypto_cards0.png"
 date: '2018-01-30 00:37:39'
 tags:
 - blockchain
@@ -106,13 +106,13 @@ A Chinese "infographic" is circulating of a deck of playing cards, with each car
 </tr>
 </table>
 
-<img src="/content/images/2018/01/crypto_cards1.jpg" width="100%" />
-<img src="/content/images/2018/01/crypto_cards2.jpg" width="100%" />
-<img src="/content/images/2018/01/crypto_cards3.jpg" width="100%" />
+<img src="/assets/img/2018/01/crypto_cards1.jpg" width="100%" />
+<img src="/assets/img/2018/01/crypto_cards2.jpg" width="100%" />
+<img src="/assets/img/2018/01/crypto_cards3.jpg" width="100%" />
 
 # Useful Links
-* <a href="/content/images/2018/01/crypto_cards-1.png">Full image</a>
+* <a href="/assets/img/2018/01/crypto_cards-1.png">Full image</a>
 * [More details in Chinese](https://36kr.com/p/5116717.html)
-* [Table of names in Chinese](/content/images/2018/01/crypto_cards_table.jpg)
+* [Table of names in Chinese](/assets/img/2018/01/crypto_cards_table.jpg)
 
 <br />

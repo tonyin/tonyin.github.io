@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Getting Solar Panels: Worth It?'
-image: "/content/images/2016/11/Solar_panel-1.jpg"
+image: "/assets/img/2016/11/Solar_panel-1.jpg"
 date: '2016-11-06 02:38:26'
 tags:
 - solar
@@ -61,6 +61,6 @@ The biggest financial opportunity is in reducing your monthly energy bill, not i
 
 But things change! Solar panels will get more efficient. Net metering rates could increase. My energy usage could skyrocket in the near future. Elon's new [solar roof](https://www.tesla.com/solar) could be a nice option when my roof needs replacing. And the Powerwall's new model now has double the capacity of the first generation. Solar may not be worth it for me now, but I am certain it very soon will be.
 
-![Tesla solar panel roof](/content/images/2016/11/tesla-solarcity-prev_653.jpg)
+![Tesla solar panel roof](/assets/img/2016/11/tesla-solarcity-prev_653.jpg)
 
 *Share your thoughts, comments, questions below! Are you going solar?*

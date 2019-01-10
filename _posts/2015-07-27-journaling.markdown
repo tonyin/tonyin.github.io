@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journaling
-image: "/content/images/2015/07/34129894-2-1333-OVR-1-1.jpg"
+image: /assets/img/2015/07/34129894-2-1333-OVR-1-1.jpg
 date: '2015-07-27 04:26:45'
 tags:
 - journal

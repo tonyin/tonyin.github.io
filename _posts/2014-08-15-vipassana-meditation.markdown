@@ -25,7 +25,7 @@ In Buddhist philosophy, the path to individual liberation and Enlightenment begi
 
 *Vipassana* teachers claim that the meditation technique is non-sectarian and can be applied universally. I found this to indeed be true in practice, though the nightly discourses and philosophy from the teacher S. N. Goenka (who is awesome and extremely funny) were decidedly Buddhist and skeptic of rituals and rites from theist religions. The path to *Dhamma* relies on three aspects, called [Threefold Training](http://en.wikipedia.org/wiki/Threefold_Training): *sila*, *samadhi*, and *panna* (pali/sanskrit); or, morality, concentration, and purity of the mind. These aspects do seem logical in their purpose and their benefits are hard to dispute in other practices - as Goenka pointed out, “What religion would not agree with practicing morality? Who would be against training their ability to concentrate? What group of people would not want to purify their minds?" Each of these aspects was practiced during our ten days: the five precepts we undertook, along with Noble Silence, embodied *sila*; the first technique we learned, *anapana* meditation, trained our *samadhi*; and the primary technique, *vipassana* meditation, began our efforts to attain *panna*.
 
-![S. N. Goenka](/content/images/2015/06/M_Id_426203_SNGoenka.jpg)
+![S. N. Goenka](/assets/img/2015/06/M_Id_426203_SNGoenka.jpg)
 [S. N. Goenka](http://en.wikipedia.org/wiki/S._N._Goenka)
 
 The first three days were entirely devoted to *anapana* meditation. Coming from a world of continuous stimulation and communication, I had a hard time sitting still for more than 15 minutes at a time, and the minutes seemed to crawl with each meditation sitting block. My lower back turned from aches to pains, my legs buzzed with numbness, and most difficult of all, my mind flitted down a million different thought paths when I tried to focus my attention on my breathing. *Anapana* meditation sharpens the mind through focusing attention on a very small area of the body. Observe respiration as air comes in and air goes out, through this nostril or that, passing gently over the area directly below the nostrils. We did not try to control the flow of respiration; we simply observed it. Slowly, ever so slowly.. sitting by sitting, hour by hour, I was able to calm my mind down. By the end of day three, I experienced the first major benefit of meditation: the improved ability to calm the mind and concentrate. (All this is a work in progress; discontinuing practice, like with any other technique, will atrophy concentration.)
@@ -38,4 +38,4 @@ The last technique we learned is called *metta*, meditation focused on love and 
 
 > "*Bhavatu Sabba Mangalam* - May all beings be happy.” -S. N. Goenka (his favorite phrase)
 
-![Roommate and I](/content/images/2015/06/IMG_0468.JPG)
+![Roommate and I](/assets/img/2015/06/IMG_0468.JPG)

@@ -2,7 +2,7 @@
 layout: post
 title: Strategy (and life lessons) from the realtime multiplayer game Generals.io
 featured: true
-image: "/content/images/2016/12/Screen-Shot-2016-12-12-at-4.41.55-PM-1.png"
+image: /assets/img/2016/12/Screen-Shot-2016-12-12-at-4.41.55-PM-1.png
 date: '2016-12-13 00:47:00'
 tags:
 - learn
@@ -17,9 +17,8 @@ tags:
 
 Large swaths of the bottom right screen lit up in my color red as I walked over blue's crown tile. I had captured them. Their forces instantly threw down their weapons; most deserted, a few stayed. The ones who did stay joined our forces. With the addition of their land, we were half-the-map-strong and had more steeples than we knew what to do with. It was just one of many battles that would eventually lead to the domination of the entire map. Welcome to my binge of [Generals.io](https://generals.io).
 
-<div align="center">
-![replay of my inexorable march to victory](/content/images/2016/12/Screen-Shot-2016-12-12-at-4.41.55-PM.png)
-</div>
+![replay of my inexorable march to victory](/assets/img/2016/12/Screen-Shot-2016-12-12-at-4.41.55-PM-1.png)
+
 <div align="center">
 <span style="font-style:italic">My inexorable march to victory</span>
 </div>
@@ -34,7 +33,7 @@ Large swaths of the bottom right screen lit up in my color red as I walked over 
 <li><a href="#strikequicklyandwithpurpose">Strike quickly and with purpose</a></li>
 <li><a href="#balancethelonggameandtheshorttermgains">Balance the long game and the short term gains</a>
 <li><a href="#alwaysbeclosing">Always be closing</a></li>
-</ul></li>
+</li>
 <li><a href="#closingthoughts">Closing Thoughts</a></li>
 </ul>
 

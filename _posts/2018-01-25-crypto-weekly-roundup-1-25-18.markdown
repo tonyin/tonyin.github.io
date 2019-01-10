@@ -28,9 +28,9 @@ Reuters continues its crusade against crypto with a new [article about the India
 ## Weiss Ratings: Sub-Prime Crypto
 In a thinly-veiled attempt to “blockchain-ify” their company, the venerated (/s) ratings agency Weiss Ratings (with their [very modern website](https://www.weissratings.com/)) released their first crypto ratings report, giving no “A” grades, a “C+” to Bitcoin (BTC), and the highest grade “B” to Ethereum (ETH) and EOS. Their ratings are behind a paywall, but full screenshots reproduced courtesy of [Twitter tweets](https://twitter.com/sourisdeparis89/status/956179623099936768). [Official ratings methodology](https://weisscryptocurrencyratings.com/ratings/the-weiss-cryptocurrency-ratings-explained-15). Reddit [digs up garbage](https://www.reddit.com/r/litecoin/comments/7soxyd/weiss_ratingsand_why_its_garbage/) on Weiss and an [inside look at their methodology](https://i.imgur.com/D6BmzZm.jpg).
 
-<img src="/content/images/2018/01/weiss-ratings.jpg" width="100%" />
-<img src="/content/images/2018/01/weiss-ratings2.jpg" width="100%" />
-<img src="/content/images/2018/01/weiss-ratings3.jpg" width="100%" />
+<img src="/assets/img/2018/01/weiss-ratings.jpg" width="100%" />
+<img src="/assets/img/2018/01/weiss-ratings2.jpg" width="100%" />
+<img src="/assets/img/2018/01/weiss-ratings3.jpg" width="100%" />
 
 ## Robinhood vs. Coinbase
 [Robinhood](https://share.robinhood.com/tonyy46) (referral), the zero-fee stock trading mobile app supposedly popular among “Millenials”, [announced their foray into crypto this morning with “Don’t Sleep”](http://blog.robinhood.com/news/2018/1/24/dont-sleep). Users can now start tracking 16 different crypto tokens, and begin trading Bitcoin (BTC) and Ethereum (ETH) in February. Millenials have long decried the iron fist of [Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f) (referral) and sought deliverance… we hope our prayers have finally been answered. Over 900k users have signed up for the waitlist at time of writing.

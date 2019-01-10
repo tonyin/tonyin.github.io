@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four Ways To Get Into Bitcoin
-image: "/content/images/2017/11/cryptocurrency.jpg"
+image: /assets/img/2017/11/cryptocurrency.jpg
 date: '2017-11-17 19:13:40'
 tags:
 - blockchain

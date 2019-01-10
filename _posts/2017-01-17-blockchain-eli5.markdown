@@ -2,7 +2,7 @@
 layout: post
 title: Blockchain, Bitcoin, and Ethereum ELI5 (Explained Like I'm Five)
 featured: true
-image: "/content/images/2017/05/blockchain-ad-placeholder-b27dc1896d7c880e90ebeb3ebb64a96f5053865b.jpg"
+image: "/assets/img/2017/05/blockchain-ad-placeholder-b27dc1896d7c880e90ebeb3ebb64a96f5053865b.jpg"
 date: '2017-01-17 05:19:00'
 tags:
 - blockchain
@@ -41,7 +41,7 @@ tags:
 <br />
 
 > There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/content/images/2017/09/harvest-icon.png" width="40" /></a>
+<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
 
 <br />
 
@@ -69,11 +69,11 @@ Want to buy some yourself? There are tons of ways to get bitcoin, but the easies
 
 > *Help me help you! **[Sign up for Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f)** using my referral code (already linked) and we both get $10!*
 
-<a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/content/images/2017/08/coinbase.png" width="100%" alt="coinbase logo" /></a>
+<a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/assets/img/2017/08/coinbase.png" width="100%" alt="coinbase logo" /></a>
 
 On Coinbase, you'll be able to purchase BTC using conventional fiat methods including PayPal, Bank Account (US), and Credit/Debit Card; each has different buying times and limits, generally the longer the buying time the higher the limit.
 
-![coinbase payments](/content/images/2017/08/coinbase-payments.png)
+![coinbase payments](/assets/img/2017/08/coinbase-payments.png)
 
 ---
 
@@ -106,7 +106,7 @@ The biggest feature with Ethereum however, and the one that makes it an applicat
 
 An example of an application is a "crowdsale" - say you want to raise a certain amount of money from people for a project or product, Kickstarter style. By specifying a target amount and a deadline, participants can pledge ETH to an account, which in turn will hold the ETH and only release the ETH to your account if it hits the target amount by the deadline. Otherwise the ETH is returned.
 
-<img src="/content/images/2017/06/Screen-Shot-2017-06-04-at-10.20.05-PM.png" width="100%" alt="ethereum price" />
+<img src="/assets/img/2017/06/Screen-Shot-2017-06-04-at-10.20.05-PM.png" width="100%" alt="ethereum price" />
 
 Ethereum's popularity (and price) has grown monstrously in the first half of 2017, as new applications are being created and investors and the public become more aware of its features. Look forward to continued innovation in this space!
 

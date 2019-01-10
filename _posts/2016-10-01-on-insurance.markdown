@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Insurance
-image: "/content/images/2016/10/on_insurance_snorkeling-1.jpg"
+image: "/assets/img/2016/10/on_insurance_snorkeling-1.jpg"
 date: '2016-10-01 14:25:10'
 tags:
 - insurance

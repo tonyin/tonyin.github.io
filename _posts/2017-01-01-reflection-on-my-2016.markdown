@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection on my 2016
-image: "/content/images/2017/01/IMG_1112-4.JPG"
+image: "/assets/img/2017/01/IMG_1112-4.JPG"
 date: '2017-01-01 20:24:48'
 tags:
 - life

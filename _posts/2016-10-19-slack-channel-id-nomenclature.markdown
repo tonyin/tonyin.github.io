@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slack Channel ID Nomenclature
-image: "/content/images/2016/10/service_512.png"
+image: "/assets/img/2016/10/service_512.png"
 date: '2016-10-19 03:59:58'
 tags:
 - code
@@ -20,4 +20,4 @@ Short and sweet post. I searched around and could not find anything on this topi
 - **G** prefix = Group/private channel
 - **P** prefix = Public channel
 
-![](/content/images/2016/10/service_512-1.png)
+![](/assets/img/2016/10/service_512-1.png)

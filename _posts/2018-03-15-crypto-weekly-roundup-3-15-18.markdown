@@ -26,7 +26,7 @@ In the past week a [report of the Mt. Gox bankruptcy proceedings](https://www.mt
 
 Kobayashi dumping 35k BTC (or nominally $350 million USD) on the open market, as opposed to a [more orderly auction or OTC transaction](https://www.reddit.com/r/mtgoxinsolvency/comments/82ykgu/re_the_dumpening/), has been [criticized by the community](https://www.reddit.com/r/mtgoxinsolvency/comments/83gvr0/lets_admit_it_was_a_right_call_by_the_trustee_to/) and blamed for contributing to the current bear market. A Twitter user [drew arrows on a chart](https://twitter.com/matt_odell/status/971432146656202752) (reproduced below) to show a leading correlation between movement from the Mt. Gox wallets and subsequent market dips. 
 
-![btc selling](/content/images/2018/03/DXs4OekXcAYyg5b.jpg-large.jpeg)
+![btc selling](/assets/img/2018/03/DXs4OekXcAYyg5b.jpg-large.jpeg)
 
 Concerned traders made a [list of the remainder of the known Mt. Gox wallets](https://www.cryptoground.com/mtgox-cold-wallet-monitor/) to monitor the movement of funds: the theory is that if any BTC are moved, then it is an indication of future selling. No movement so far and there is [no expectation of it](https://www.reddit.com/r/BitcoinMarkets/comments/82r4v9/there_is_no_reason_for_the_mt_gox_trustee_to_sell/) in the near future as the trust now holds enough fiat to satisfy the fiat claims. The [next creditor’s meeting is on 26 Sep 2018](https://www.reddit.com/r/mtgoxinsolvency/comments/82n6hi/latest_update_7_march_2018_bankruptcy_proceedings/), where there will hopefully but unrealistically be more clarity on the fate of the money including the remaining 165k BTC.
 

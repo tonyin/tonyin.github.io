@@ -18,7 +18,7 @@ If you’re like me, you’ll have signed up for random blogs, newsletters, and 
 
 **Harken, the return of RSS!** [[Feed Reader for Chrome](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)]! No longer will your email inbox be defiled by unimportant messages! Stay up to date directly from the source of new content (like the blog of yours truly) with the simple click of a button! And for those RSS feeds that don’t work with the click of a button (I’m looking at you [Oatmeal](http://feeds.feedburner.com/oatmealfeed)), just copy and paste the RSS link with a `?format=xml` at the end into the "Add feed" box. (Eg. `http://feeds.feedburner.com/oatmealfeed?format=xml`)
 
-![](/content/images/2014/Oct/Screen-Shot-2014-10-01-at-12-19-18-PM.png)
+![](/assets/img/2014/Oct/Screen-Shot-2014-10-01-at-12-19-18-PM.png)
 (My feed is a work in progress, no judgment.)
 
 For the uninitiated, RSS stands for "Rich Site Summary" and is a web feed format that provides users with automatic new updates without the user having to manually check the source site. In our case, we can install an RSS reader as an extension to our Chrome browser which will then allow us to see new content when it is available, and link directly to the source site. The RSS feed reader exists as a small button in the upper right corner of our browser. Instructional steps below.

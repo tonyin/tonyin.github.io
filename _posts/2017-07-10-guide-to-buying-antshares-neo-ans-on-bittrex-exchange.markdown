@@ -2,7 +2,7 @@
 layout: post
 title: Guide to Buying NEO on Binance Exchange
 featured: true
-image: "/content/images/2017/08/Screen-Shot-2017-08-03-at-9.44.26-PM.png"
+image: "/assets/img/2017/08/Screen-Shot-2017-08-03-at-9.44.26-PM.png"
 date: '2017-07-10 04:49:00'
 tags:
 - trading
@@ -34,7 +34,7 @@ If you've never traded on a regular fiat currency exchange before, then you may 
 <br />
 
 > There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/content/images/2017/09/harvest-icon.png" width="40" /></a>
+<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
 
 ---
 
@@ -63,7 +63,7 @@ There are tons of ways to get BTC, but the easiest way is to use the most establ
 
 > *Help me help you! **[Sign up for Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f)** using my referral code (already linked) and we both get $10!*
 
-<a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/content/images/2017/08/coinbase.png" width="100%" alt="coinbase logo" /></a>
+<a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/assets/img/2017/08/coinbase.png" width="100%" alt="coinbase logo" /></a>
 
 On Coinbase, you'll be able to purchase BTC with conventional fiat ways (like bank account and wallet), which I won't even begin to describe here. I'll wait here while you buy some.
 
@@ -71,7 +71,7 @@ On Coinbase, you'll be able to purchase BTC with conventional fiat ways (like ba
 
 Okay great! Let's get those BTC over to Binance, probably the best exchange for acquiring NEO due to their close partnership with the NEO team (check out my writeup on their [Binance Coin](https://tonyy.in/guide-to-buying-binance-coins-bnb/) for more info). Tab on over in your Coinbase account to "Send" and pop in that Bitcoin address from your [Binance account](#2fundbinanceaccount) with all of your newly bought BTC.
 
-<img src="/content/images/2017/08/Screen-Shot-2017-08-03-at-9.48.30-PM.png" width="100%" alt="coinbase send screen" />
+<img src="/assets/img/2017/08/Screen-Shot-2017-08-03-at-9.48.30-PM.png" width="100%" alt="coinbase send screen" />
 
 <div align="center">
 <span style="font-style:italic;">I have only 0.0023344 BTC :(</span>
@@ -85,19 +85,19 @@ Okay great! Let's get those BTC over to Binance, probably the best exchange for 
 
 What Binance account address, you ask? If you haven't already, make an account on [Binance](https://www.binance.com/?ref=10138930) (disclaimer: my referral link), making sure you have 2FA enabled for the extra security. The great thing about Binance is that even without verification, you are automatically at Lv. 1 which allows a 2 BTC daily withdrawal. Another advantage of Binance over other exchanges is that they offer [fee-free withdrawals](https://binance.zendesk.com/hc/en-us/articles/115000429332-Fee-Structure-on-Binance) of NEO (and GAS).
 
-<img src="/content/images/2017/08/binance-account.png" width="100%" alt="binance account" />
+<img src="/assets/img/2017/08/binance-account.png" width="100%" alt="binance account" />
 
 Once you finish creating your account, navigate to your "Funds" page from the top menu. There should be a dropdown that says "Deposits Withdrawals".
 
-<img src="/content/images/2017/08/funds.png" width="100%" alt="funds" />
+<img src="/assets/img/2017/08/funds.png" width="100%" alt="funds" />
 
 On the "Deposits & Withdrawals" page is where you can view all of your balances for every type of coin that Binance supports, including BTC and NEO. This page also gives you your information about each coin such as Total Balance, Available Balance, and the BTC Value.
 
-<img src="/content/images/2017/08/coins.png" width="100%" alt="online wallets" />
+<img src="/assets/img/2017/08/coins.png" width="100%" alt="online wallets" />
 
 Click on the "Deposit" box at the far right of the "BTC" row and the line will expand to show you a Bitcoin address. **This is the address where you should be sending your BTC** that you bought from Coinbase in the previous step.
 
-<img src="/content/images/2017/08/deposit.png" width="100%" alt="binance deposit" />
+<img src="/assets/img/2017/08/deposit.png" width="100%" alt="binance deposit" />
 
 <div align="center">
 <span style="font-style:italic;">Yes that is my real BTC deposit address on Binance. Feel free to send any BTC ^^</span>
@@ -122,7 +122,7 @@ The basic transaction elements are so important that I want to give you a refres
 
 Here is a screenshot of real BTC transactions taking place on Binance:
 
-<img src="/content/images/2017/11/btc-neo-transactions.png" alt="btc-neo transactions" width="100%" />
+<img src="/assets/img/2017/11/btc-neo-transactions.png" alt="btc-neo transactions" width="100%" />
 
 <div align="center" style="font-style:italic;">
 Columns from left to right: Price, Volume, Time. Green represents "buy" orders as the initiator, and red represents "sell" orders as the initiator
@@ -136,7 +136,7 @@ In the example from the previous section, I just happened to find a seller willi
 
 The top cryptocurrencies traded on Binance using BTC as the transacting currency:
 
-<img src="/content/images/2017/11/btc-markets-binance.png" width="100%" alt="btc markets" />
+<img src="/assets/img/2017/11/btc-markets-binance.png" width="100%" alt="btc markets" />
 
 You can see we've got all the big names in crypto — including ETH, NEO, and LTC.
 
@@ -146,19 +146,19 @@ You can see we've got all the big names in crypto — including ETH, NEO, and LT
 
 Now we're rolling! We know that buyers and sellers come to Binance to hang out and try to trade their wares, in our case NEO and BTC. Back on Binance, navigate to the "Exchange" -> "Advanced" view for NEO (here's a link directly to the [NEO page](https://www.binance.com/tradeDetail.html?symbol=NEO_BTC)), and we should see a night-themed screen with a lot of numbers. It looks complicated but we'll go through each section.
 
-<img src="/content/images/2017/11/btc-neo-market.png" width="100%" alt="btc neo market" />
+<img src="/assets/img/2017/11/btc-neo-market.png" width="100%" alt="btc neo market" />
 
 The left side is a [candlestick chart](https://en.wikipedia.org/wiki/Candlestick_chart) that shows the change in NEO price over time (with respect to BTC). Binance offers various technical indicators like MACD (moving-average-convergence-divergence) if you're into that. You can also toggle the view to "Depth" if you want to see a visual representation of the order book.
 
-<img src="/content/images/2017/11/neo-chart.png" width="100%" alt="neo chart" />
+<img src="/assets/img/2017/11/neo-chart.png" width="100%" alt="neo chart" />
 
 The depth chart is a visual representation of the streaming columns of numbers you see on the right. It is a little friendlier to figure out what's actually going on here. On the x-axis, you have prices in BTC. On the y-axis, you have volume of NEO that buyers and sellers are willing to trade. The green, on the left side, is the buyers; the red, on the right side, is the sellers. Where they meet is the actively trading price that you see that people commonly use, and the price that you will most likely be able to transact in.
 
-<img src="/content/images/2017/11/neo-depth.png" width="100%" alt="neo depth" />
+<img src="/assets/img/2017/11/neo-depth.png" width="100%" alt="neo depth" />
 
 Now on to the streaming columns of numbers. This part is known as the "price ladder"; the red numbers coming from the top are the "sellers" that are willing to sell at that price for that volume (given in both NEO and BTC units), and the green numbers coming up from the bottom are the "buyers" that are willing to buy at that price for that volume. And on the very far right is a continuously updated list of transactions that have recently taken place.
 
-<img src="/content/images/2017/11/neo-ladder.png" width="100%" alt="neo ladder" />
+<img src="/assets/img/2017/11/neo-ladder.png" width="100%" alt="neo ladder" />
 
 You can see that the most recent trade, at the top of the section, is a "buy" order in green for 16.67 units of NEO at a price of 0.004287 BTC.
 
@@ -170,7 +170,7 @@ You can see that the most recent trade, at the top of the section, is a "buy" or
 
 Alright now let's get into the meat of it. Buying NEO is what we came here to do and by God we're going to do it. You'll see there's a Buy section and a Sell section at the bottom right of the screen. The concepts for each are the same but reversed so I'll only go over buying.
 
-<img src="/content/images/2017/11/neo-buy-sell.png" width="100%" alt="neo buy sell" />
+<img src="/assets/img/2017/11/neo-buy-sell.png" width="100%" alt="neo buy sell" />
 
 Begin by figuring out what Price (Bid) you want to buy at. You can manually type in or adjust the price, or you can click on any of the numbers above in the price ladder and it will automatically populate.
 
@@ -178,11 +178,11 @@ Once you figure out your price, you can set the amount of NEO you want to buy. B
 
 Note: The above shows the **Limit** price that you are willing to buy at. If you want to simplify things, you can tab over to **Market** which will let Binance select the best (lowest) price that you can buy at in order to get all of your intended buy amount. Be careful when using this option for coins that do not have much volume — you may end up buying at a much higher price than you would like!
 
-<img src="/content/images/2017/11/neo-market-buy.png" width="100%" alt="neo market buy" />
+<img src="/assets/img/2017/11/neo-market-buy.png" width="100%" alt="neo market buy" />
 
 Hit the "100%" option on the "Market" tab and you'll see the maximum amount of NEO you can buy with your BTC Balance. Now hit that big green "Buy" button. On the immediate left of this you should then see your open orders (and filled orders, if traded).
 
-<img src="/content/images/2017/11/binance-open-orders.png" width="100%" alt="binance open orders" />
+<img src="/assets/img/2017/11/binance-open-orders.png" width="100%" alt="binance open orders" />
 
 Et voila! You've submitted an order to buy NEO using BTC! Once your trade goes through, you can either leave your NEO on Binance (who will give you monthly snapshots of your GAS accruals!), or you can transfer your NEO to your local wallet. Now just sit back, watch the NEO Gas flow in, and get ready for the moon!
 

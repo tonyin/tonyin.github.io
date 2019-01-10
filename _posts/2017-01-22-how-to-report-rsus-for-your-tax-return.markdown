@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Report RSUs for your Tax Return
-image: "/content/images/2017/01/pexels-photo-288477.jpg"
+image: "/assets/img/2017/01/pexels-photo-288477.jpg"
 date: '2017-01-22 23:52:46'
 tags:
 - howto

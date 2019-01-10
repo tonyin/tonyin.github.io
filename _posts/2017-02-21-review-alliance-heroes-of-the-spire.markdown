@@ -2,7 +2,7 @@
 layout: post
 title: 'Review, Guide, FAQs for Alliance: Heroes of the Spire'
 featured: true
-image: "/content/images/2017/02/alliance-main.png"
+image: "/assets/img/2017/02/alliance-main.png"
 date: '2017-02-21 01:27:20'
 tags:
 - review
@@ -137,7 +137,7 @@ And one day soon, there will be Alliance Wars. God help those who are left allia
 The original Pokemon was synonymous with Gotta Catch 'Em All, all 150 of 'em. Alliance boasts "hundreds of unique heroes", over "19 unique item sets", as well as 5 different elements (Fire, Water, Nature, Order, and Chaos)[^1] - which combinatorially brings us well over the original number of pocket monsters and more than enough to entice our human urge to collect things. Heroes come aplenty at every stage of the game, and your Barracks will be one of the most viewed areas as you play. You pray every time you roll an Epic Hero Core that you will get a strong hero (4 stars or more). You shrug off the rolls of regular Hero Cores, knowing that the myriad of 1 and 2 star heroes will be "fused" into your stronger heroes for more XP. Even still, I found myself unconsciously trying to keep a few of the "cool" heroes in my roster despite never using them. Classic collectibles mentality.
 
 <div align="center">
-![summoning](/content/images/2017/02/IMG_0009.PNG)
+![summoning](/assets/img/2017/02/IMG_0009.PNG)
 </div>
 
 <br />
@@ -146,7 +146,7 @@ The original Pokemon was synonymous with Gotta Catch 'Em All, all 150 of 'em. Al
 
 Where was this feature back when I played Final Fantasy!? Auto-battling is the ultimate set-and-forget. You can sit back and watch your heroes automatically select skills, target enemies, and fight to the finish, complete with battle animations. Even more ridiculous is auto-battle *without* animations - you can set your heroes to auto-battle through a stage up to 10 times, and just watch a progress bar as they "fight" their way through. In mobile games, there is usually a time element that forces you to wait for things to happen (or pay money to expedite). With no-animation auto-battle, you can leave the app and your heroes will still finish their battles. Now this is worker automation I can get behind.
 
-![Auto-Battles](/content/images/2017/02/IMG_0002.PNG)
+![Auto-Battles](/assets/img/2017/02/IMG_0002.PNG)
 
 <div align="center">
 <span style="font-style:italic;">Select 3x speed, hit "play", enjoy the ride</style>
@@ -157,7 +157,7 @@ Where was this feature back when I played Final Fantasy!? Auto-battling is the u
 
 The one-line most recent global chat at the top center of the main screen is a constant reminder that you are not alone. This feature felt cluttered at first, but grew on me. I liked seeing what cool heroes people have rolled, ascended, or evolved (4 stars and above only), and most of the chatter is reasonable if not terribly interesting. A quick tap opens up to a fuller page. As more players join, the global chat will need to be redesigned or risk becoming a continuous scroll.
 
-![Global Chat](/content/images/2017/02/IMG_0003.PNG)
+![Global Chat](/assets/img/2017/02/IMG_0003.PNG)
 
 <div align="center">
 <span style="font-style:italic;">These guys were having none of my role-playing</style>
@@ -176,7 +176,7 @@ These occur every week and last for about a week. We get introduced to new stori
 
 The overall feel of the game is still very much a single-player RPG: there is a main story arc, area map, side dungeons, side quests, and a focus on leveling up and collecting heroes. Alliances and the Dueling Arena are the social options. In an Alliance, you can join up, contribute XP, watch your leaderboard, nominally level up your Alliance and get separate rewards and resources... but the experience is unnecessary to the main story (besides the arbitrary requirement to use Alliance-only resources to "upgrade" ascended heroes). The Dueling Arena likewise feels like a standalone side dungeon where you can battle other player's teams for extra resources. Just another outlet for spending time.
 
-![Dueling Hall](/content/images/2017/02/IMG_0004.PNG)
+![Dueling Hall](/assets/img/2017/02/IMG_0004.PNG)
 
 <div align="center">
 <span style="font-style:italic;">What's the point of a Dueling Hall when you have the Dueling Arena?</span>
@@ -187,7 +187,7 @@ The overall feel of the game is still very much a single-player RPG: there is a 
 
 The sheer number of different resources is overwhelming. Gems, gold, energy, dueling tokens, temple keys, valor medals, alliance honor, alliance essences, hero cores, epic hero cores, banners, spire stones, elemental essences, wisps... not to mention chocolates and roses during the Valentine's festival. I get that mobile games are all about quick hits of reward adrenaline, but this variety is tiptoeing the ADHD line. I still have no idea what banners do.
 
-![Map](/content/images/2017/02/IMG_0007.PNG)
+![Map](/assets/img/2017/02/IMG_0007.PNG)
 
 <div align="center">
 <span style="font-style:italic;">A lot of stuff going on</span>
@@ -202,13 +202,13 @@ The sheer number of different resources is overwhelming. Gems, gold, energy, due
 
 I saw this game feature first in Blizzard's MOBA Heroes of the Storm - every day, you get a random assortment of "quests" that you can complete to get some reward. Tutorials use these checklists to teach you how to play and point out various in-game features. Daily quests are somewhat of a continuation; at first, I was still learning new game mechanics and possibilities as I completed the quests. Soon the quests became checklists for a decent resource reward. Gotta get my daily quests in.
 
-![Daily Quests](/content/images/2017/02/IMG_0006.PNG)
+![Daily Quests](/assets/img/2017/02/IMG_0006.PNG)
 
 ## Daily Login
 
 How do you get players to come back every day? By incentivizing them to do so of course. Daily Login gives you increasingly better rewards as you come back, all the way to Day 24 when you get a **Order and Chaos Epic Core**. Order and Chaos heroes are (arguably) the strongest heroes in the game, so. Drool-worthy? (and potentially 24-days-later-worthy)
 
-![Daily Login](/content/images/2017/02/IMG_0011.PNG)
+![Daily Login](/assets/img/2017/02/IMG_0011.PNG)
 
 ## Alliance XP Contribution
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harvest: The easiest way to grow your mind'
-image: "/content/images/2017/07/harvest-screenshot-2.png"
+image: "/assets/img/2017/07/harvest-screenshot-2.png"
 date: '2017-07-29 20:43:54'
 ---
 
@@ -12,16 +12,16 @@ I've found the perfect solution: It's called [Harvest](https://chrome.google.com
 Harvest is the easiest way to grow your mind. Write or highlight any text into the Harvest app, and the app will automatically store it, organize it, and "grow" it for you through a spaced repetition algorithm. Harvest lives right in your browser so you never have to switch context outside of where you're reading.
 
 <div style="width:100%;display:inline-block">
-![](/content/images/2017/08/harvest-screen0.png)
+![](/assets/img/2017/08/harvest-screen0.png)
 </div>
 <div style="width:42%;float:left">
-![](/content/images/2017/09/screenshot2-1.png)
+![](/assets/img/2017/09/screenshot2-1.png)
 </div>
 <div style="width:42%;float:right">
-![](/content/images/2017/09/screenshot2-2.png)
+![](/assets/img/2017/09/screenshot2-2.png)
 </div>
 <div style="width:100%;display:inline-block">
-![](/content/images/2017/07/harvest-screen3.png)
+![](/assets/img/2017/07/harvest-screen3.png)
 </div>
 <span style="font-style:italic">
 1) Write or highlight any text that you want to learn or remember
@@ -37,7 +37,7 @@ Harvest is the easiest way to grow your mind. Write or highlight any text into t
 
 Expose yourself to something once, and you may forget it within the hour (a new person's name is a common case). Expose yourself to it twice, and you might remember it for a bit longer based on the timing ("oh yea, I remember reading that once!"). Exposing yourself to something continuously through time, and you will never forget it (sounds like a great studying habit).
 
-![](/content/images/2017/07/forgetting-curve.png)
+![](/assets/img/2017/07/forgetting-curve.png)
 
 Harvest uses an algorithm called [SuperMemo](https://en.wikipedia.org/wiki/SuperMemo), specifically version SM-2, developed in 1985 by researchers in Poland and based off of a master's thesis called [Optimization of Learning](https://www.supermemo.com/english/ol.htm). You may have already experienced some forms of SM-* in popular apps like Duolingo, Anki, and Mnenosyme. In typical implementations of SuperMemo, there is a recall component that assesses the user's memory of the material, the result of which dynamically adjusts the future exposure intervals. Harvest simplifies this method with one-way exposure and a constant exponential backoff, although we are considering plans to add assessments.
 

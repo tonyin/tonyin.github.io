@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyper Exposure
-image: "/content/images/2017/01/2560px-Cour_de_Marbre_du_Cha-teau_de_Versailles_October_5-_2011.jpg"
+image: "/assets/img/2017/01/2560px-Cour_de_Marbre_du_Cha-teau_de_Versailles_October_5-_2011.jpg"
 date: '2017-01-09 05:40:39'
 tags:
 - ideas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Content Consumption
-image: "/content/images/2017/01/pexels-photo-296115.jpg"
+image: "/assets/img/2017/01/pexels-photo-296115.jpg"
 date: '2017-01-30 04:36:49'
 tags:
 - chrome

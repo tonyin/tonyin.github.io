@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating to Raspberry Pi
-image: "/content/images/2016/03/rpi2b-1.jpg"
+image: "/assets/img/2016/03/rpi2b-1.jpg"
 date: '2016-03-20 22:58:26'
 tags:
 - tutorial

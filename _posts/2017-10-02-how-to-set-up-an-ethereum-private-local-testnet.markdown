@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HowTo: Set up an Ethereum private local testnet'
-image: "/content/images/2017/09/ETHEREUM-LOGO_LANDSCAPE_Black.png"
+image: "/assets/img/2017/09/ETHEREUM-LOGO_LANDSCAPE_Black.png"
 date: '2017-10-02 17:36:17'
 tags:
 - howto
@@ -27,7 +27,7 @@ From my research there are three guides that seem to be the most authoritative a
 <br />
 
 > There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/content/images/2017/09/harvest-icon.png" width="40" /></a>
+<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
 
 ---
 
@@ -126,7 +126,7 @@ Now we are ready to initialize our private blockchain! Fire up a new terminal, n
 
 If everything worked correctly, we should see a confirmation that looks like
 
-<img src="/content/images/2017/10/Screen-Shot-2017-10-02-at-10.18.19-AM.png" width="100%" />
+<img src="/assets/img/2017/10/Screen-Shot-2017-10-02-at-10.18.19-AM.png" width="100%" />
 
 ## Create an address and begin mining
 

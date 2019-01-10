@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vitality - A reminder of life
-image: "/content/images/2017/01/screenshot_web.jpg"
+image: "/assets/img/2017/01/screenshot_web.jpg"
 date: '2016-08-22 05:55:35'
 tags:
 - extension
@@ -12,7 +12,7 @@ tags:
 
 tl;dr - [Chrome extension](https://chrome.google.com/webstore/detail/vitality/ofnbjjlogningakpjgphhiidgkbjgcch) that reminds you of the years flowing by with every new tab.
 
-![screenshot](/content/images/2016/08/screenshot_web.jpg)
+![screenshot](/assets/img/2016/08/screenshot_web.jpg)
 
 ## Motivation
 

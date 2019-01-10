@@ -35,7 +35,7 @@ Circle’s immediate plans are to address Poloniex’s scalability issues around
 The steady consolidation continues for crucial financial infrastructure, and we will continue to see a more seamless experience between the “traditional” and “crypto” worlds.  (Here’s a [rant about UX of wallets](https://medium.com/mycrypto/the-future-of-ethereum-doesnt-have-wallets-232fcee708bf).)
 
 Leaked slide:
-![circle poloniex leaked slide](/content/images/2018/03/DW--Pk4U0AA00sm.jpeg)
+![circle poloniex leaked slide](/assets/img/2018/03/DW--Pk4U0AA00sm.jpeg)
 
 See you guys next week —
 
