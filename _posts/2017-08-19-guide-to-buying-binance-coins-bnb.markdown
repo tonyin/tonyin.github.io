@@ -14,24 +14,24 @@ tags:
 - crypto
 ---
 
-*Last updated: 1 Oct 2018*
+*Last updated: 13 Mar 2019*
 
 If you are reading this, then chances are you know something about blockchain technology, cryptocurrencies, and exchanges in general. For a refresher, read my [Blockchain ELI5](https://tonyy.in/blockchain-eli5/) piece that gives some background on the new digital wave. In this guide I will summarize the pros and cons of the Binance Exchange as well as walk you through step-by-step instructions on how to acquire [Binance Exchange](https://www.binance.com/register.html?ref=10138930)'s digital currency, **Binance Coin (BNB)**, a token that facilitates your trading and gives you a stake in Binance's future.
 
-<br />
+<div align="right"><em><a href="#5-buy-binance-coins-bnb">Skip to the trading guide &raquo;</a></em></div>
+
+<br>
 
 ---
 
 # Table of Contents
 
-1. [What Is Binance](#1whatisbinance)
-2. [Pros and Cons of Binance](#2prosandconsofbinance)
- - [Pros](#pros)
- - [Cons](#cons)
-3. [Get Bitcoins or Ether](#3getbitcoinsorether)
-4. [Fund Binance Account](#4fundbinanceaccount)
-5. [Buy Binance Coins (BNB)](#5buybinancecoinsbnb)
-6. [Useful Links](#usefullinks)
+1. [What Is Binance](#1-what-is-binance)
+2. [Binance Strengths](#2-binance-strengths)
+3. [Get Bitcoins or Ether](#3-get-bitcoins-or-ether)
+4. [Fund Binance Account](#4-fund-binance-account)
+5. [Buy Binance Coins (BNB)](#5-buy-binance-coins-bnb)
+6. [Useful Links](#useful-links)
 
 ---
 
@@ -39,43 +39,39 @@ If you are reading this, then chances are you know something about blockchain te
 
 # 1. What Is Binance
 
-[Binance](https://www.binance.com/register.html?ref=10138930) is one of the top cryptocurrency exchanges, headed by [Changpeng Zhao](https://twitter.com/cz_binance) and a team distributed around the world, most recently [headquartered](http://fortune.com/2018/03/23/binance-bitcoin-exchange-cryptocurrency-malta/) in the island nation of Malta. It has all of the main features you want to see in an exchange like support for trading pairs with all of the major coins (BTC, ETH, NEO), multiple languages, multiple device platforms, clean user interface, and importantly, extremely high throughput from its order matching engine of up to [1,400,000 orders per second](https://www.binance.com/aboutUs.html).
+[Binance](https://www.binance.com/register.html?ref=10138930) is one of the top cryptocurrency exchanges, headed by [Changpeng Zhao](https://twitter.com/cz_binance) and a team distributed around the world, most recently [headquartered](http://fortune.com/2018/03/23/binance-bitcoin-exchange-cryptocurrency-malta/) in the island nation of Malta. It has all of the main features you want to see in an exchange: support for trading pairs with all of the major coins (BTC, USDT, other alts), multiple languages, multiple device platforms, clean user interface, extremely high throughput from its order matching engine (up to [1,400,000 orders per second](https://www.binance.com/aboutUs.html)), and most importantly, consistently one of the [highest trading volumes](https://coinmarketcap.com/rankings/exchanges/) (and hence liquidity) of all existing exchanges.
 
-Binance does not provide fiat (eg. US dollars) to cryptocurrency exchange, rather focuses purely on crypto-to-crypto. It emphasizes security, speed, and customer service above all else. As a proxy for fiat however, Binance does offer multiple stablecoin pairings including [Tether USD (USDT)](https://tether.to/) as well as [True USD (TUSD)](https://www.trusttoken.com/trueusd/).
+Binance does not provide fiat (eg. US dollars) to cryptocurrency exchange, rather focuses purely on crypto-to-crypto. It emphasizes security, speed, and customer service above all else. As a proxy for fiat, Binance offers multiple stablecoin pairings including [Tether USD (USDT)](https://tether.to/) as well as [True USD (TUSD)](https://www.trusttoken.com/trueusd/).
 
-<br />
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="1839" data-base="USD" data-secondary="BTC"></div>
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="binance-coin" data-base="USD" data-secondary="BTC"></div>
+<br>
 
-<br />
+# 2. Binance Strengths
 
-# 2. Pros and Cons of Binance
-
-## Pros
+- **Liquidity**<br>
+Binance is consistently one of the top exchanges by volume. High volume means high liquidity, which means we get the most price discovery, tightest spreads, and good likelihood of trading into and out of positions even if it's high volume
 
 - **Speed** <br />
 If you've used other exchanges before, you can definitely feel the difference in execution speed. The engine underlying Binance in fact is already powering 30+ other exchanges in Asia.
 
 - **Team & Partnerships** <br />
-Binance's CEO is [Changpeng Zhao](https://www.linkedin.com/in/cpzhao/), who has a deep background in finance, trading, and blockchain technology. He is also the founder of [BijieTech](https://www.bijietech.com/) (company behind the underlying execution engine) as well as a co-founder of [OKCoin](https://en.wikipedia.org/wiki/OKCoin) (one of the largest Bitcoin exchanges in the world). The CMO is Yi He, one of the leading cryptocurrency experts in China and also a co-founder of OKCoin. They have a close partnership with the most promising blockchain protocol out of China, [NEO](https://neo.org/) smart economy ([guide to buying NEO](https://tonyy.in/guide-to-buying-antshares-neo-ans-on-bittrex-exchange/)), headed by Da Hongfei (in fact, Binance offers fee-free withdrawal of NEO and GAS). Overall very strong team.
+Binance's CEO is [Changpeng Zhao](https://www.linkedin.com/in/cpzhao/), who has a deep background in finance, trading, and blockchain technology. He is also the founder of [BijieTech](https://www.bijietech.com/) (company behind the underlying execution engine) as well as a co-founder of [OKCoin](https://en.wikipedia.org/wiki/OKCoin) (one of the largest Bitcoin exchanges in the world). The CMO is Yi He, one of the leading cryptocurrency experts in China and also a co-founder of OKCoin. They have a close partnership with one of the more promising blockchain protocols, [NEO](https://neo.org/) smart economy, headed by Da Hongfei. Overall very strong team.
 
 - **Binance Coin (BNB)** <br />
-Owners of BNB will receive discounts on all trading fees (25% off as we are into the second year now). See the [complete fee structure](https://www.binance.com/fees.html) and the [BNB discounts](https://support.binance.com/hc/en-us/articles/115000583311) over time. In addition, all [ICOs offered on Binance](https://launchpad.binance.com/) will have a discount for using BNB to invest, and the long term promise is owning a stake of Binance's future [fully decentralized exchange](https://support.binance.com/hc/en-us/articles/360001668872-Binance-Chain) on their own blockchain protocol Binance Chain. <br />There will also be natural deflation as every quarter, Binance will use 20% of profits to [buy back BNB](https://www.binance.com/ico_review_en.html) and destroy them, thereby steadily driving up the price (up to 50% of all BNB in circulation).<br />
+Owners of BNB will receive discounts on all trading fees (25% off as we are into the second year now). See the [complete fee structure](https://www.binance.com/fees.html) and the [BNB discounts](https://support.binance.com/hc/en-us/articles/115000583311) over time. In addition, all [ICOs offered on Binance](https://launchpad.binance.com/) will have a discount for using BNB to invest, and the long term promise is owning a stake of Binance's future [fully decentralized exchange](https://support.binance.com/hc/en-us/articles/360001668872-Binance-Chain) on their own blockchain protocol [Binance Chain](https://medium.com/binanceexchange/binance-chain-2bb9a95b3997). <br />There will also be natural deflation as every quarter, Binance will use 20% of profits to [buy back BNB](https://www.binance.com/ico_review_en.html) and destroy them, thereby steadily driving up the price (up to 50% of all BNB in circulation).<br><br>
 **Binance Coins are very compelling and is the primary reason we are here speculating on BNB.**
 
-## Cons
+<br>
 
-- ~~**Limited Coins**~~ <br />
-As of Oct 2018, Binance has expanded immensely and now offers one of the most diversity of trade pairings of all exchanges. In fact, there is something called the "Binance Effect" where, when an altcoin gets listed on Binance, it gains "credibility" and sees significantly more trading interest (more liquidity is almost always a good thing!).<br >
-[Previously] <em>Compared to other top exchanges, Binance offers a relatively limited selection of coins to trade - if you want to get anything outside of their [supported list](https://binance.zendesk.com/hc/en-us/sections/115000122291-Assets-Introduction), then you will have to go elsewhere. This list will [continue to expand](https://binance.zendesk.com/hc/en-us/articles/115001175111-Binance-Will-Add-OAX-DNT-MCO-ICN-) (OAX, DNT, MCO, ICN) however and will not be a con for long. In Sep 2017, Binance added a [Community Coin per Month](https://binance.zendesk.com/hc/en-us/articles/115001308592-Binance-Starts-Its-Community-Coin-per-Month-Program) program where the coin with the most number of community votes will be listed.</em>
+> We had previously talked about both pros and cons of Binance, but since launch, Binance has executed very well against their roadmap:
+>
+> Limited coins? : Now a large number of BTC, stablecoin, and alt trading pairs available<br>
+> Limited documentation? : No longer an issue<br>
+> No fiat gateway? : Binance now offers credit card purchase
 
-- **Limited Documentation** <br />
-Binance is natively Chinese; this means that by default, documentation will start in Chinese and suffer from translation differences for other languages like English.
-
-- **No fiat currency exchange** <br />
-Like we mentioned above, you can only use crypto for trading on Binance, as fiat exchanges have much more regulatory scrutiny.<br /><br />This con is rapidly being improved upon with Binance's move into fiat-crypto operations: The first is [LCX, a joint partnership between Binance and Liechtenstein Cryptoassets Exchange](https://support.binance.com/hc/en-us/articles/360006584151), which offers fiat-crypto exchanges (Swiss Francs (CFH) and Euros (EUR)). The second is [Binance Uganda](https://support.binance.com/hc/en-us/articles/360006584151) which is the first exchange in Uganda to offer crypto-fiat.
-
-<br />
+<br>
 
 # 3. Get Bitcoins or Ether
 
@@ -85,30 +81,32 @@ There are tons of ways to get either, but the easiest way is to use the most est
 
 > *Help me help you! **[Sign up for Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f)** using my referral code (already linked) and we both get $10!*
 
-<a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/assets/img/2017/08/coinbase.png" width="100%" alt="coinbase logo" /></a>
+<div align="center"><a href="https://www.coinbase.com/join/527af8b8e59746fe9c00003f" target="_blank"><img src="/assets/img/2017/08/coinbase.png" width="50%" alt="coinbase logo" /></a></div>
 
 On Coinbase, you'll be able to purchase BTC or ETH using conventional fiat methods including Bank Account, Credit/Debit Card, and Wire Transfer (depending on your locale); each has different buying times and limits, generally the longer the buying time the higher the limit. I'll wait here while you buy some.
 
-<img src="/assets/img/2017/12/coinbase-buy.png" width="75%" alt="coinbase buy" />
+<div align="center"><img src="/assets/img/2017/12/coinbase-buy.png" width="75%" alt="coinbase buy" /></div>
 
 *A few days later...*
 
-Okay great! Let's get those BTC or ETH over to Binance now. Tab on over in your Coinbase account to "Accounts", select "Send" from one of your coin balances, and pop in the deposit address from your [Binance account](#4fundbinanceaccount) with all of your new cryptocurrency.
+Okay great! Let's get those BTC or ETH over to Binance now. Tab on over in your Coinbase account to "Accounts", select "Send" from one of your coin balances, and pop in the deposit address from your [Binance account](#4-fund-binance-account) with all of your new cryptocurrency.
 
-<img src="/assets/img/2017/12/coinbase-accounts.png" width="100%" alt="coinbase accounts" />
+<div align="center"><img src="/assets/img/2017/12/coinbase-accounts.png" width="100%" alt="coinbase accounts" /></div>
 
-<img src="/assets/img/2017/12/coinbase-send.png" width="100%" alt="coinbase send" />
+<div align="center"><img src="/assets/img/2017/12/coinbase-send.png" width="100%" alt="coinbase send" /></div>
 
-<br />
+<br>
 
-With all of the traffic slamming Coinbase, if you're looking for alternative places to buy BTC or ETH here are a couple more popular places:
+> With all of the traffic slamming Coinbase, if you're looking for alternative places to buy BTC or ETH here are a couple more popular places:
+> 
+> - **[Changelly](https://changelly.com/?ref_id=e1ded0b56c99)** — Super easy interface and provides a wider variety of coins to buy like Ripple, Dash, Monero
+> - **[LocalBitcoins](https://localbitcoins.com/country/US?ch=e7d7)** — Peer-to-peer buying marketplace, the advantage is that only you and the other person have knowledge of your transaction. They have an escrow service to facilitate transactions if needed.
 
-- **[Changelly](https://changelly.com/?ref_id=e1ded0b56c99)** — Super easy interface and provides a wider variety of coins to buy like Ripple, Dash, Monero
-- **[LocalBitcoins](https://localbitcoins.com/country/US?ch=e7d7)** — Peer-to-peer buying marketplace, the advantage is that only you and the other person have knowledge of your transaction. They have an escrow service to facilitate transactions if needed.
+<br>
 
 # 4. Fund Binance Account
 
-What Binance account, you ask? If you haven't already, make an account on [Binance](https://www.binance.com/register.html?ref=10138930) (disclaimer: my referral link), and have your 2FA and so forth configured for extra security. One of the great conveniences of Binance is that, just by signing up, you are "Lv. 1" and can withdraw up to 2 BTC per day. You should see a screen like below once you are up and running:
+What Binance account, you ask? If you haven't already, make an account on [Binance](https://www.binance.com/register.html?ref=10138930), and have your 2FA and so forth configured for extra security. One of the great conveniences of Binance is that, just by signing up, you are "Lv. 1" and can withdraw up to 2 BTC per day. You should see a screen like below once you are up and running:
 
 <img src="/assets/img/2017/08/binance-account.png" width="100%" alt="binance account" />
 
@@ -135,7 +133,9 @@ For each coin, you can see the coin's
 
 At the very right of each line, you will see "Deposit" and "Withdrawal". The former is what you want, and clicking it will take you to a new page where you can view your BTC or ETH address. **This is the address where you should be sending your new coins** that you got from Coinbase.
 
-<img src="/assets/img/2017/11/deposit-closeup-1.png" width="100%" alt="deposit closeup"><div align="center"><em>Closeup of the "Deposit" and "Withdrawal" buttons</em></div><br />
+<img src="/assets/img/2017/11/deposit-closeup-1.png" width="100%" alt="deposit closeup">
+<div align="center"><em>Closeup of the "Deposit" and "Withdrawal" buttons</em></div>
+<br>
 
 <img src="/assets/img/2018/10/binance-btc-deposit-1.png" width="100%" alt="binance deposit" />
 
@@ -143,7 +143,9 @@ At the very right of each line, you will see "Deposit" and "Withdrawal". The for
 <span style="font-style:italic;">BTC deposit page</span>
 </div><br />
 
-<img src="/assets/img/2018/10/coinbase-send.png" width="100%" alt="coinbase send"><div align="center"><em>From Coinbase, you input your address that you get from Binance.</em></div><br />
+<img src="/assets/img/2018/10/coinbase-send.png" width="100%" alt="coinbase send">
+<div align="center"><em>From Coinbase, you input your address that you get from Binance.</em></div>
+<br>
 
 Once you send your BTC or ETH into your respective Binance wallet, then you are ready to actually start trading on Binance and proceed to the next step!
 
@@ -159,7 +161,7 @@ The first thing we'll do is configure which crypto pair we want to trade. We can
 
 <img src="/assets/img/2017/08/pairs.png" width="100%" alt="binance pairs" />
 
-We're going to use BNB/ETH" for our examples here. To get to this page directly, here's the link: https://www.binance.com/tradeDetail.html?symbol=BNB_ETH.
+We're going to use BNB/ETH" for our examples here. To get to this page directly, here's the link: <a href="https://www.binance.com/tradeDetail.html?symbol=BNB_ETH">https://www.binance.com/tradeDetail.html?symbol=BNB_ETH</a>.
 
 <img src="/assets/img/2017/08/depth.png" width="100%" alt="binance depth" />
 
@@ -205,7 +207,9 @@ Here we are looking at the BNB/NEO page, specifically buying NEO with BNB coins.
 
 Generally for buying, setting a limit amount _higher than the stop_ will have a better chance of getting your order filled. Vice versa for selling: setting a limit amount _lower than the stop_ will have a better chance.
 
----
+<br>
+
+# Conclusion
 
 And that's it! You've bought your first Binance Coins. You can now have greatly discounted fees, and own a piece of one of the best exchanges in the world. See you on the moon!
 
