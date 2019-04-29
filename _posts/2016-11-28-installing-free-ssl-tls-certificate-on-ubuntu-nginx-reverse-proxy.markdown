@@ -102,7 +102,7 @@ Per [StackExchange tutorial](http://serverfault.com/questions/768509/lets-encryp
     server {
         listen 80;
         server_name yourdomain;
-        rewrite ^ https://$host$request_uri? permanent;
+        return 301 https://$server_name$request_uri;
     }
 
 Restart your nginx server and try hitting the unencrypted endpoint again to see the redirect.
