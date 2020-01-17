@@ -48,6 +48,10 @@ There is no foolproof strategy to win. In classic mode, there are 8 simultaneous
 
 <br />
 
+> *Interested in cryptocurrency like Bitcoin? **[Sign up for Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f)** using my referral code (already linked) and we both get $10!*
+
+<br>
+
 ## Strategies
 
 <br />
