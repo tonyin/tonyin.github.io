@@ -13,7 +13,7 @@ tags:
 - life-lessons
 ---
 
-# Introduction
+## Introduction
 
 Large swaths of the bottom right screen lit up in my color red as I walked over blue's crown tile. I had captured them. Their forces instantly threw down their weapons; most deserted, a few stayed. The ones who did stay joined our forces. With the addition of their land, we were half-the-map-strong and had more steeples than we knew what to do with. It was just one of many battles that would eventually lead to the domination of the entire map. Welcome to my binge of [Generals.io](https://generals.io).
 
@@ -24,7 +24,7 @@ Large swaths of the bottom right screen lit up in my color red as I walked over 
 </div>
 <br />
 
-# Table of Contents
+## Table of Contents
 <ul>
 <li><a href="#overview">Overview</a></li>
 <li><a href="#strategies">Strategies</a>
@@ -40,7 +40,7 @@ Large swaths of the bottom right screen lit up in my color red as I walked over 
 
 <br />
 
-# Overview
+## Overview
 
 Generals.io is a realtime multiplayer strategy game that is like the game Risk; you raise armies, capture territories, and ultimately take over the enemy by capturing their crown. Winners of battles are determined by number comparison - if one number is bigger than the other, then the bigger number wins. The losing number is subtracted from the winning number. How is such a simple game so addicting? I don’t know, but after seeing the link a few days ago (thanks [hacker news](https://news.ycombinator.com/item?id=13145781)), I spent most of my last weekend playing it on and off.
 
@@ -48,11 +48,11 @@ There is no foolproof strategy to win. In classic mode, there are 8 simultaneous
 
 <br />
 
-# Strategies
+## Strategies
 
 <br />
 
-## Explore, explore, explore
+### Explore, explore, explore
 
 Everyone starts with only one crown tile that generates 1 army unit per tick. In the beginning, it is all about exploring! Go up, down, left, right, around mountains, anywhere you can travel to. Blank spaces require no battles to capture and will generate 1 army unit every 25 ticks. People have developed different exploration strategies like depth-first vs breadth-first. Either way, it pays to move quickly in the beginning.
 
@@ -60,7 +60,7 @@ Everyone starts with only one crown tile that generates 1 army unit per tick. In
 
 <br />
 
-## Strike quickly and with purpose
+### Strike quickly and with purpose
 
 As the map and blank spaces begin filling up, you will meet other players. Now the real battles begin. Everyone has varying degrees of aggression, but if you do attack, strike quickly and with a clear goal. The more time you give your enemies, the more you expose your army sizes and positions, and the more time they will have to respond. The specific purpose of an attack should either be to scout and locate an enemy's crown, or take specific objectives like a steeple (generates 1 army unit per tick, 25x faster than regular spaces) or a strategic area for visibility purposes. Capturing a space here and there, slowly, does not help your ultimate objective.
 
@@ -68,7 +68,7 @@ As the map and blank spaces begin filling up, you will meet other players. Now t
 
 <br />
 
-## Balance the long game and the short term gains
+### Balance the long game and the short term gains
 
 Different scenarios call for different tactics. My overall strategy relies on balancing immediate gains (defending or attacking) with investing for the long game (spending army units to capture neutral steeples). If I see an enemy is weak or distracted, I will muster my forces and charge into the heart of their territory in search of their crown. If I cannot foresee an immediate threat or need to regroup, I will spend army units capturing steeples to increase my army-raising rate. Usually I invest in capturing steeples after capturing a crown or winning battles, as both sides are weak from attrition and need time to rebuild.
 
@@ -76,7 +76,7 @@ Different scenarios call for different tactics. My overall strategy relies on ba
 
 <br />
 
-## Always be closing
+### Always be closing
 
 My username handle in the game is `https://tonyy.in` so that my enemies can look me up when I crush them. I originally wanted to make the top 100 leaderboard to get some organic acquisition traffic, but people started getting really good at the game and my best rank has only been around 600. I play this game for fun, of course, but I never say no to “free" acquisition channels.
 
