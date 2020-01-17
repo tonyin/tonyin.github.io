@@ -31,8 +31,9 @@ Large swaths of the bottom right screen lit up in my color red as I walked over 
 <ul style="margin-left:15px">
 <li><a href="#exploreexploreexplore">Explore, explore, explore</a></li>
 <li><a href="#strikequicklyandwithpurpose">Strike quickly and with purpose</a></li>
-<li><a href="#balancethelonggameandtheshorttermgains">Balance the long game and the short term gains</a>
+<li><a href="#balancethelonggameandtheshorttermgains">Balance the long game and the short term gains</a></li>
 <li><a href="#alwaysbeclosing">Always be closing</a></li>
+</ul>
 </li>
 <li><a href="#closingthoughts">Closing Thoughts</a></li>
 </ul>
