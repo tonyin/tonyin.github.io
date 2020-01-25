@@ -40,11 +40,6 @@ tags:
 
 <br />
 
-> There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
-
-<br />
-
 It started with Bitcoin: the first mainstream digital currency that exploded into popularity in 2013, when the price of a single Bitcoin (BTC) went from $10 to over $1000 at its peak. Over the next year, BTC's steady decline back, losing 75% of its value to $250, was equally as tumultuous.
 
 # Bitcoin ELI5
