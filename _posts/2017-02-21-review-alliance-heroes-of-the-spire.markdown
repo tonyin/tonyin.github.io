@@ -137,7 +137,9 @@ And one day soon, there will be Alliance Wars. God help those who are left allia
 The original Pokemon was synonymous with Gotta Catch 'Em All, all 150 of 'em. Alliance boasts "hundreds of unique heroes", over "19 unique item sets", as well as 5 different elements (Fire, Water, Nature, Order, and Chaos)[^1] - which combinatorially brings us well over the original number of pocket monsters and more than enough to entice our human urge to collect things. Heroes come aplenty at every stage of the game, and your Barracks will be one of the most viewed areas as you play. You pray every time you roll an Epic Hero Core that you will get a strong hero (4 stars or more). You shrug off the rolls of regular Hero Cores, knowing that the myriad of 1 and 2 star heroes will be "fused" into your stronger heroes for more XP. Even still, I found myself unconsciously trying to keep a few of the "cool" heroes in my roster despite never using them. Classic collectibles mentality.
 
 <div align="center">
+
 ![summoning](/assets/img/2017/02/IMG_0009.PNG)
+
 </div>
 
 <br />
@@ -148,9 +150,8 @@ Where was this feature back when I played Final Fantasy!? Auto-battling is the u
 
 ![Auto-Battles](/assets/img/2017/02/IMG_0002.PNG)
 
-<div align="center">
-<span style="font-style:italic;">Select 3x speed, hit "play", enjoy the ride</style>
-</div>
+<div align="center"><span style="font-style:italic;">Select 3x speed, hit "play", enjoy the ride</span></div>
+
 <br />
 
 ## Global Chat
@@ -227,13 +228,16 @@ And so forth. Talk to anyone on chat and they will tell you of the bad luck they
 <br />
 
 <div align="center">
+
 <h5>"Roll. Pray." Alliance Swag T-Shirt</h5>
 <span style="font-style: italic;">Show off your (lack of) luck on Epic Core rolls with some Alliance swag.</span>
 </div>
 <div style="max-width:300px;margin:auto;">
 <a href="https://www.amazon.com/dp/B06XRNXG7B/" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XRNXG7B&Format=_SL360_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1" ></a>
 <div align="center" style="background-color:#dc3425;border-radius:4px;padding:4px 6px;"><a href="https://www.amazon.com/dp/B06XRNXG7B/" target="_blank" style="text-decoration:none;color:white;display:block;font-weight:bold;">$25 from Amazon</a></div>
+
 </div>
+
 <br />
 
 <br />

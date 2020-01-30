@@ -12,17 +12,29 @@ I've found the perfect solution: It's called [Harvest](https://chrome.google.com
 Harvest is the easiest way to grow your mind. Write or highlight any text into the Harvest app, and the app will automatically store it, organize it, and "grow" it for you through a spaced repetition algorithm. Harvest lives right in your browser so you never have to switch context outside of where you're reading.
 
 <div style="width:100%;display:inline-block">
+
 ![](/assets/img/2017/08/harvest-screen0.png)
+
 </div>
+
 <div style="width:42%;float:left">
+
 ![](/assets/img/2017/09/screenshot2-1.png)
+
 </div>
+
 <div style="width:42%;float:right">
+
 ![](/assets/img/2017/09/screenshot2-2.png)
+
 </div>
+
 <div style="width:100%;display:inline-block">
+
 ![](/assets/img/2017/07/harvest-screen3.png)
+
 </div>
+
 <span style="font-style:italic">
 1) Write or highlight any text that you want to learn or remember
 2) Submit your note for storing and organizing
@@ -51,4 +63,4 @@ Harvest currently works in a way that supports only the core features of a space
 
 Happy growing!
 
-*Get Harvest from the Chrome app store: https://chrome.google.com/webstore/detail/harvest-grow-your-mind/dejecgndbecimagkaefkfdaedaimamji*
+*Get Harvest from the Chrome app store: [https://chrome.google.com/webstore/detail/harvest-grow-your-mind/dejecgndbecimagkaefkfdaedaimamji](https://chrome.google.com/webstore/detail/harvest-grow-your-mind/dejecgndbecimagkaefkfdaedaimamji)*

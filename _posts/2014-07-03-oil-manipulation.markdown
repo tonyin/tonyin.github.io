@@ -10,8 +10,6 @@ tags:
 
 In August of 2011, right amidst the chaos of the S&P downgrade of US Treasuries, I joined a proprietary trading firm behemoth by name of Optiver US, LLC. I knew compliance was a concern for trading firms, but only in hindsight did I realize to what extent.
 
-<div align="center"><img src="http://euroasianews.com/wp-content/uploads/bigstock-oil-barrel-and-pool-.jpg" alt="Crude Oil" style="width: 300px;height: 228px" /></div>
-
 Few people know much about trading outside of the big banks (Goldman, JP, MS, etc.), but Optiver was particularly well-known during that time. The first page of results from a Google search prominently displayed a notorious price-fixing scheme of crude oil futures by (ex-)senior Optiver traders. The CFTC had launched a multi-year investigation that was coming to a damning close as I joined. Needless to say, compliance was very strict and probably the reason why an entire session of our final round of interviews was regarding "ethics" (hint: if something sounds illegal, it probably is). The remaining legal procedures of the case would continue for the following year or so, finally concluding in 2012 with a $14M settlement and a somber statement from our MD at an all-hands meeting. 
 
 The media sensationalized the case as expected,

@@ -19,7 +19,11 @@ tags:
 
 When [Pocket](https://pocket.co) first came out, the product immediately resonated with me: collect links and articles that you find anywhere, and save (“pocket”) it to your personal folder to read later even without internet. The idea is like bookmarking, except you don’t necessarily want to save the links for easy access in perpetuity; you just want to be able to read them once, share it perhaps, and move on with your day. Other solutions kind of exist; you can favorite Tweets, bookmark Safari pages, leave Chrome tabs open… but nothing as platform-agnostic as Pocket. I briefly tried using Inbox by Google to save links privately, but turning your email inbox into a link farm seems a little sacrilegious.
 
-<img src="/assets/img/2017/11/pocket-recommendations.png" width="100%" alt="pocket recommendations" /><div align="center"><em>Pocket's recommendations for me</em></div><br />
+<img src="/assets/img/2017/11/pocket-recommendations.png" width="100%" alt="pocket recommendations" />
+
+<div align="center"><em>Pocket's recommendations for me</em></div>
+
+<br />
 
 Outside of the core feature of saving things to read later, Pocket does other content things to varying degrees of success:
 
@@ -41,7 +45,11 @@ Pocket was the first great app that helped me efficiently navigate the increasin
 
 I remember [Refind](https://refind.com/tonyin?invite=FS81ODNfNQ) came to market riding on Pocket’s popularity; they advertised themselves as a _complement_ to Pocket rather than a substitute. Use Pocket to save content for reading later, but also use Refind to save content for, well, _refinding_ later. Nevermind you could probably use Pocket for refinding content as well. Do one thing and do it really well and all that. The clean look and messaging drew me in though, and what really kept me around was the social aspects: Refind replaced my regular browser-specific bookmarking (eg. on Chrome or Firefox) with a “social newsletter” bookmarking that was cross-platform and publicly viewable, followable, and shareable. For some reason this worked to keep me around despite my newsletter still having only 1 subscriber (me). Every week I would get my own newsletter with the links I saved in a nicely formatted feed email, as well as Refind’s own weekly newsletter (much like Pocket’s).
 
-<img src="/assets/img/2017/11/refind-my-newsletter.png" width="100%" alt="refind my newsletter" /><div align="center"><em>My very own newsletter! Subscribers: 1 (me)</em></div><br />
+<img src="/assets/img/2017/11/refind-my-newsletter.png" width="100%" alt="refind my newsletter" />
+
+<div align="center"><em>My very own newsletter! Subscribers: 1 (me)</em></div>
+
+<br />
 
 I spent a year or so with both Pocket and Refind: one-time read articles go into Pocket, and reference-type or “evergreen” content go into Refind. This system worked well for a long time with few qualms. I became gradually annoyed however with the closedness of Pocket’s platform; I didn’t want to share links that started with `pocket.co/something123`, and there continued to be issues accessing or rendering certain types of content, whether it was formatting or paywalls. At the same time I was increasingly impressed with the way Refind was evolving, making tags easy to see and add, sending relevant weekly content, and the social aspect of “this number of people also saved this content” and “this person also saved a content that you saved” even though the latter was usually totally irrelevant (I later turned this notification off). Great growth-hacking technique though.
 
@@ -49,7 +57,11 @@ I spent a year or so with both Pocket and Refind: one-time read articles go into
 
 Speaking of growth-hacking, Refind also jumped on the blockchain trend and announced they are giving away [1 billion coins](http://relevance.community/) to users in anticipation of using 10% of future profits to buy back the coins at market price. A billion imaginary coins aren't really worth anything but coins are crypto and crypto is hot, so users aren't thinking too hard about them.. it's gimmicky, but theoretically cool and a great way to incentivize referrals for a (currently) free service.
 
-<img src="/assets/img/2017/11/refind-coins.png" width="100%" alt="refind coins" /><div align="center"><em>67 coins.. I'm rich!</em></div><br />
+<img src="/assets/img/2017/11/refind-coins.png" width="100%" alt="refind coins" />
+
+<div align="center"><em>67 coins.. I'm rich!</em></div>
+
+<br />
 
 One day in the near past, Refind went straight for the throat and added a “Read Soon” option (sound familiar?).  If you manage to do one thing and do it well, then really you can just do another related thing well also. I didn’t start using this feature immediately, but the additional option was a constant reminder that it was _possible_, and one day on a whim I poked around on the Refind site and found that it was actually quite easy to fully transition my Pocket-specific content directly to Refind. Everything first goes into my "Read Soon" section, both the one-time articles and the evergreen content; then the worthwhile evergreen content gets added to my "Saved" section. It worked great and, thus, I stopped using Pocket. One fewer app, extension, and closed platform later, I was (and still am) completely on Refind, saving, reading, and refinding away.
 
@@ -65,7 +77,11 @@ Harvest also strikes truer into one of the core reasons why we consume content: 
 
 Harvest makes it 10x easier to save any piece of content from any device, whether it’s highlighting a short paragraph, a note in your own words, or a combination of the two. The note can include any relevant contextual information to go with the content (context helps retention) like URL, time of save, and tags. Then Harvest makes it 10x easier to learn from that content through repeated exposure, using scheduled notifications (like email) on a spaced repetition algorithm. Then Harvest makes it 10x easier to share content to your connections and followers through beautiful displays and sharing schedule optimizations.
 
-<img src="/assets/img/2017/11/harvest-accept-stuck.png" width="100%" alt="accept state of being stuck harvest" /><div align="center"><em>A recent [Harvested note](https://harvest.li/shared/05f7eb23b541d1296214c556c9e4c97b7036d66fba95d2613a54c072e1b0d023) of mine</em></div><br />
+<img src="/assets/img/2017/11/harvest-accept-stuck.png" width="100%" alt="accept state of being stuck harvest" />
+
+<div align="center"><em>A recent [Harvested note](https://harvest.li/shared/05f7eb23b541d1296214c556c9e4c97b7036d66fba95d2613a54c072e1b0d023) of mine</em></div>
+
+<br />
 
 It’s still very early, but we see a world where everyone is better able to curate, share, and learn from the massive amount of content being generated every day.
 

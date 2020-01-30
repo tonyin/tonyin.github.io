@@ -26,9 +26,6 @@ From my research there are three guides that seem to be the most authoritative a
 
 <br />
 
-> There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
-
 ---
 
 # Table of Contents

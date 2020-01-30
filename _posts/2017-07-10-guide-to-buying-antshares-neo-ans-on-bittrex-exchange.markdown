@@ -27,15 +27,6 @@ tags:
 
 If you've never traded on a regular fiat currency exchange before, then you may have a tough time navigating cryptocurrency exchanges like [Binance](https://www.binance.com/register.html?ref=10138930). In this guide I will explain many of the features and nuances that will make your initial trading journey easier. Basic technical and financial literacy is assumed. In all examples I will consider [NEO](https://neo.org/) as the target cryptocurrency and [Bitcoins](https://bitcoin.org/) (BTC) as the transacting cryptocurrency. If you want to learn more about blockchain technology, check out my [blockchain ELI5](https://tonyy.in/blockchain-eli5/) post. Otherwise hold onto to your seats... you're about to hop on the NEO blockchain rocket to the moon.
 
-> *If you're looking for Bittrex, I've updated this guide to using [Binance]((https://www.binance.com/register.html?ref=10138930) as our preferred exchange. It has the highest NEO volume, gives monthly snapshots of generated GAS, and fee-free withdrawals. What more could you ask for!? Bittrex has also temporarily halted new accounts as they cannot handle the large influx of volume.*
-
----
-
-<br />
-
-> There's lots to learn in this post. To help you remember, try my app **[Harvest](https://harvest.li): Take Notes and Learn Passively**. You can write or highlight any notes, save them, and automatically receive reminders on an optimal learning schedule.<br />
-<a href="https://harvest.li"><img src="/assets/img/2017/09/harvest-icon.png" width="40" /></a>
-
 ---
 
 # Table of Contents

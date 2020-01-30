@@ -10,8 +10,11 @@ tags:
 ---
 
 <div align="center">
+
 ![esc key](/assets/img/2017/01/esc-key.png)
+
 <p style="font-style:italic;">Keyboard symbol for "Escape"</p>
+
 </div>
 
 Time and time again, instinct moves my hand to the top left corner of the keyboard. There is only one key there that I trust. It can do so many things in so many scenarios, the Swiss army knife of a keyboard; don't like this prompt? Hit it! Finished editing? Hit it again! Cutscene too long? Hit it 'til they stop! The world of human-computer interaction would be remiss without this punchy panacea, this [brainchild of Mr. Bemer](https://en.wikipedia.org/wiki/Esc_key) almost 57 years ago. Sorry finance people, we are not talking about the `F2` key that only becomes useful after popping out and sacrificing the `F1` key (may they rest in peace).

@@ -4,7 +4,6 @@ title: Projects
 peramlink: /projects
 ---
 
-[Genie](https://9enie.com) is the best place to research reviews and ratings on products.
 
 [Harvest](https://harvest.li) is the easiest way to learn passively while browsing online.
 
