@@ -11,6 +11,7 @@ tags:
 - gdax
 - etherdelta
 - cwr
+- newsletter
 ---
 
 <br />

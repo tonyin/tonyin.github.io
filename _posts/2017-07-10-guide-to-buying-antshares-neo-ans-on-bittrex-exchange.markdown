@@ -15,7 +15,7 @@ tags:
 - cryptocurrency
 - ans
 - antshares
-- guide
+- guides
 - neo
 - coinbase
 - gas

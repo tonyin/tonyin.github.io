@@ -6,11 +6,12 @@ tags:
 - meditation
 - vipassana
 - buddha
+- featured
 ---
 
-![Dhamma Pakasa](http://www.pakasa.dhamma.org/images/dhamma_hall.jpg)
-
 For ten days I lived the ascetic life of a Buddhist monk at [Dhamma Pakasa](http://www.pakasa.dhamma.org/), a *vipassana* meditation center in the wilderness of Illinois. We scrupulously followed five precepts - to abstain from killing, stealing, lying, sexual misconduct, and intoxicants. We ate simple vegetarian meals and had only fruit and tea after noon. We put away our electronic screens and undertook Noble Silence, avoiding all eye contact and communication of any form except with the teacher. My roommate Vibhore would later describe the experience as “voluntary solitary confinement.” And most importantly, we meditated for upwards of ten hours every single day.
+
+![Dhamma Pakasa](http://www.pakasa.dhamma.org/images/dhamma_hall.jpg)
 
 The schedule was as follows: Wake up at 4 am, meditate, eat breakfast, meditate, eat lunch, rest, meditate, drink tea, meditate. Listen to a nightly discourse from the teacher about the techniques and the philosophies behind them. Meditate some more. Sleep by 9:30 pm.
 

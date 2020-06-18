@@ -9,7 +9,7 @@ tags:
 - blockchain
 - bitcoin
 - cryptocurrency
-- guide
+- guides
 - binance
 - crypto
 ---

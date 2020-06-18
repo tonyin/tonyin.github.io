@@ -13,25 +13,25 @@ Harvest is the easiest way to grow your mind. Write or highlight any text into t
 
 <div style="width:100%;display:inline-block">
 
-![](/assets/img/2017/08/harvest-screen0.png)
+<img src="/assets/img/2017/08/harvest-screen0.png">
 
 </div>
 
 <div style="width:42%;float:left">
 
-![](/assets/img/2017/09/screenshot2-1.png)
+<img src="/assets/img/2017/09/screenshot2-1.png">
 
 </div>
 
 <div style="width:42%;float:right">
 
-![](/assets/img/2017/09/screenshot2-2.png)
+<img src="/assets/img/2017/09/screenshot2-2.png">
 
 </div>
 
 <div style="width:100%;display:inline-block">
 
-![](/assets/img/2017/07/harvest-screen3.png)
+<img src="/assets/img/2017/07/harvest-screen3.png">
 
 </div>
 

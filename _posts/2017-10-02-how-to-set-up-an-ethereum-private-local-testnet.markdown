@@ -7,7 +7,7 @@ tags:
 - howto
 - blockchain
 - ethereum
-- guide
+- guides
 - osx
 - crypto
 ---

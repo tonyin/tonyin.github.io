@@ -8,6 +8,7 @@ tags:
 - rsus
 - taxes
 - equity
+- guides
 ---
 
 If you work in tech, some of your compensation will undoubtedly come in the form of equity. Startups give stock options; larger tech companies like Linkedin usually give RSUs (restricted stock units). There are a variety of reasons why this difference exists, like properly aligning employer/employee incentives and tax implications. You can read about them in this [Quora thread](https://www.quora.com/Why-do-smaller-companies-usually-offer-options-instead-of-RSUs). This post specifically is for those dreading the looming tax day to help guide the proper reporting of RSUs on tax returns. Basic tax knowledge assumed.

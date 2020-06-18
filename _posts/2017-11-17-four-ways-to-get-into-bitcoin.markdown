@@ -10,7 +10,7 @@ tags:
 - ethereum
 - eth
 - cryptocurrency
-- guide
+- guides
 - crypto
 ---
 

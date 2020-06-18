@@ -8,6 +8,7 @@ tags:
 - chrome
 - howto
 - code
+- guides
 ---
 
 tl;dr - [Chrome extension](https://chrome.google.com/webstore/detail/vitality/ofnbjjlogningakpjgphhiidgkbjgcch) that reminds you of the years flowing by with every new tab.

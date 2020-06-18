@@ -6,6 +6,7 @@ tags:
 - bitcoin
 - crypto
 - cwr
+- newsletter
 ---
 
 <br />

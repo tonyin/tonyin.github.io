@@ -5,6 +5,7 @@ date: '2018-03-22 15:41:00'
 tags:
 - crypto
 - cwr
+- newsletter
 ---
 
 <br />

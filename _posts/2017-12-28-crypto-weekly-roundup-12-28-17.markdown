@@ -11,6 +11,7 @@ tags:
 - mcafee
 - kcs
 - cwr
+- newsletter
 ---
 
 <br />

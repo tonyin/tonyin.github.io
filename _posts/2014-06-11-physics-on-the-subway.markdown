@@ -2,6 +2,7 @@
 layout: post
 title: Physics on the subway
 date: '2014-06-11 15:22:55'
+tags: featured
 ---
 
 The only time I consistently think about physics is when I'm riding the train. Either I'm standing with nothing to hold onto, or I have one metal handhold amidst a jumble of arms and hands and elbows. As the train beeps and the doors slide close,

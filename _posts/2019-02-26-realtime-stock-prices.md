@@ -5,6 +5,7 @@ date: '2019-02-25'
 tags:
 - aeto-labs
 - discord
+- guides
 ---
 
 I’ve already set up the [discord server bot](https://github.com/tonyin/aeto-bot) to get real-time crypto prices from Binance. Crypto is new enough that the API infrastructure for third party tools (especially automated trading) is table stakes; you won’t attract enough trade volume without good API support. Binance also happens to be consistently one of the top 5 exchanges by volume, so prices are going to be decent enough to be global best. Back in the real world however we need to figure out how to get real-time stock prices.

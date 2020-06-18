@@ -11,6 +11,7 @@ tags:
 - binance
 - crypto
 - cwr
+- newsletter
 ---
 
 <br />

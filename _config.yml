@@ -1,15 +1,18 @@
-title: TY Tales
+title: Aeto 逸韬
 author: Tony Yin
 email: t@tonyy.in
-description: >  
-  Products, data, crypto, ecommerce
+description: >
+  Public homepage for writings & thoughts
 logo: /assets/img/logo.png
 permalink: /:title/
 show_excerpts: false
 
 header_pages:
+  - all.md
+  - crypto.md
+  - guides.md
+  - newsletter.md
   - about.md
-  - projects.md
 
 google_analytics: UA-51798386-1
 disqus:

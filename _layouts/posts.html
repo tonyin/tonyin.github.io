@@ -1,14 +1,12 @@
 ---
-layout: home
+layout: default
 ---
 
-
-Welcome to my public site! This page I will keep updated with most of my better works, and leave the rest under different topic headings.
-
-<div class="m-t-xl">
+<div>
+  <h2 class="post-list-heading">{{ page.title | default: "Posts" }}</h2>
   <ul class="post-list">
   {%- for post in site.posts -%}
-    {%- if post.tags contains 'featured' -%}
+    {%- if post.tags contains page.tags -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -17,7 +15,9 @@ Welcome to my public site! This page I will keep updated with most of my better 
           {{ post.title | escape }}
         </a>
       </h3>
-    {{ post.excerpt }}
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
     </li>
     {%- endif -%}
   {%- endfor -%}

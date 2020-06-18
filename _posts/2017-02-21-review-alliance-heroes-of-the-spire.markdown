@@ -10,6 +10,7 @@ tags:
 - games
 - faqs
 - mobile
+- guides
 ---
 
 Another long weekend another binge. The last time I spent this much time on a video game was late 2016 playing the web-based browser game [Generals.io](https://tonyy.in/generals-io-strategy-life-lessons/). This time we get to a more advanced genre in the mobile game [**Alliance: Heroes of the Spire**](https://www.facebook.com/alliancegame).

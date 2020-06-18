@@ -9,6 +9,7 @@ tags:
 - forever
 - digitalocean
 - nginx
+- guides
 ---
 
 I realized the other day how important it is to document all of our processes, especially if you spent time piecing together different tools and resources. Here I outline exactly how I set this Ghost blog up, with links to corresponding instructions.

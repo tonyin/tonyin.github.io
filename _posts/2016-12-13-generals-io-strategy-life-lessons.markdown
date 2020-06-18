@@ -11,6 +11,7 @@ tags:
 - games
 - strategy
 - life-lessons
+- guides
 ---
 
 ## Introduction

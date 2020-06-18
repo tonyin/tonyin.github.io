@@ -11,6 +11,8 @@ tags:
 - harvest
 - pocket
 - refind
+- featured
+excerpt: A journey through the content apps Pocket, Refind, and our very own Harvest. It’s still very early, but we see a world where everyone is better able to curate, share, and learn from the massive amount of content being generated every day.
 ---
 
 # Pocket
@@ -53,7 +55,11 @@ I remember [Refind](https://refind.com/tonyin?invite=FS81ODNfNQ) came to market 
 
 I spent a year or so with both Pocket and Refind: one-time read articles go into Pocket, and reference-type or “evergreen” content go into Refind. This system worked well for a long time with few qualms. I became gradually annoyed however with the closedness of Pocket’s platform; I didn’t want to share links that started with `pocket.co/something123`, and there continued to be issues accessing or rendering certain types of content, whether it was formatting or paywalls. At the same time I was increasingly impressed with the way Refind was evolving, making tags easy to see and add, sending relevant weekly content, and the social aspect of “this number of people also saved this content” and “this person also saved a content that you saved” even though the latter was usually totally irrelevant (I later turned this notification off). Great growth-hacking technique though.
 
-<img src="/assets/img/2017/11/refind-social-notifications.png" width="100%" alt="refind social notifications" /><div align="center"><em>Sorry, I don't know you guys so I don't really care</em></div><br />
+<img src="/assets/img/2017/11/refind-social-notifications.png" width="100%" alt="refind social notifications">
+
+<div align="center"><em>Sorry, I don't know you guys so I don't really care</em></div>
+
+<br />
 
 Speaking of growth-hacking, Refind also jumped on the blockchain trend and announced they are giving away [1 billion coins](http://relevance.community/) to users in anticipation of using 10% of future profits to buy back the coins at market price. A billion imaginary coins aren't really worth anything but coins are crypto and crypto is hot, so users aren't thinking too hard about them.. it's gimmicky, but theoretically cool and a great way to incentivize referrals for a (currently) free service.
 
@@ -79,7 +85,7 @@ Harvest makes it 10x easier to save any piece of content from any device, whethe
 
 <img src="/assets/img/2017/11/harvest-accept-stuck.png" width="100%" alt="accept state of being stuck harvest" />
 
-<div align="center"><em>A recent [Harvested note](https://harvest.li/shared/05f7eb23b541d1296214c556c9e4c97b7036d66fba95d2613a54c072e1b0d023) of mine</em></div>
+<div align="center"><em>A recent <a href="https://harvest.li/shared/05f7eb23b541d1296214c556c9e4c97b7036d66fba95d2613a54c072e1b0d023">Harvested note</a> of mine</em></div>
 
 <br />
 

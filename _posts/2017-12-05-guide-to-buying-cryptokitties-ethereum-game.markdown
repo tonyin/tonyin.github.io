@@ -8,7 +8,7 @@ tags:
 - games
 - blockchain
 - ethereum
-- guide
+- guides
 - crypto
 - cryptokitties
 ---

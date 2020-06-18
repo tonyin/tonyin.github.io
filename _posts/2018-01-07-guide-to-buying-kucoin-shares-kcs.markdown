@@ -10,6 +10,7 @@ tags:
 - crypto
 - kucoin
 - kcs
+- guides
 ---
 
 *Last updated: 8 Jan 2018*

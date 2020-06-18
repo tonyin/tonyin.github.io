@@ -1,7 +1,11 @@
 ---
 layout: default
-title: About Me
+title: About
 peramlink: /about
 ---
 
-I enjoy coming up with and prototyping new ideas. Get in touch if you'd like to chat! <a href="mailto:t@tonyy.in">t@tonyy.in</a>
+This is the hardest page to write, and I'm not sure what else to put here yet. In the meantime, here are a few projects I'm working on:
+
+[Segments](https://segments.tresl.co) increases repeat revenue for ecommerce (Shopify) stores through analytics & segmentation.
+
+[Harvest](https://harvest.li) is the easiest way to learn passively while browsing online.

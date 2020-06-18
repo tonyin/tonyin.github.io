@@ -14,6 +14,7 @@ tags:
 - raspbian
 - hosting
 - raspi
+- guides
 ---
 
 Or, *how to make Raspbian, Nodejs, and Ghost play nicely with each other*

@@ -14,6 +14,7 @@ tags:
 - ubuntu
 - ssl
 - nginx
+- guides
 ---
 
 We write for ourselves but it is also nice when others can discover the content we put out there. Adding an [SSL/TLS certificate](https://en.wikipedia.org/wiki/Transport_Layer_Security) increases your ranking for search results, so I did that today. Thankfully there are free SSL/TLS certificate services like [letsencrypt](https://letsencrypt.org/) which make things super easy. Some poking around required.

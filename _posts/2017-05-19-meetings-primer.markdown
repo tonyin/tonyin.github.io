@@ -8,7 +8,7 @@ tags:
 - primer
 ---
 
-Read this before going into any meeting.
+(Re-)Read this before going into any meeting.
 
 - **Know your goal** <br />
 Everything you do should contribute in some way to achieving your goal. What does success look like coming out of the meeting? What would require followups? Your goal does not need to be exactly defined, but you need to at least have a general direction. Sometimes the goal can simply be getting to know someone better - in this case, success could be better understanding of their personality or motivations. Do not get sidetracked by disagreements and emotions; if it doesn't help achieve your goal, move on.
