@@ -12,6 +12,8 @@ tags:
 - strategy
 - life-lessons
 - guides
+- featured
+excerpt: Large swaths of the bottom right screen lit up in my color red as I walked over blue's crown tile. I had captured them. Their forces instantly threw down their weapons; most deserted, a few stayed. The ones who did stay joined our forces. With the addition of their land, we were half-the-map-strong and had more steeples than we knew what to do with. It was just one of many battles that would eventually lead to the domination of the entire map. Welcome to my binge of Generals.io.
 ---
 
 ## Introduction
@@ -30,13 +32,13 @@ Large swaths of the bottom right screen lit up in my color red as I walked over 
 <li><a href="#overview">Overview</a></li>
 <li><a href="#strategies">Strategies</a>
 <ul style="margin-left:15px">
-<li><a href="#exploreexploreexplore">Explore, explore, explore</a></li>
-<li><a href="#strikequicklyandwithpurpose">Strike quickly and with purpose</a></li>
-<li><a href="#balancethelonggameandtheshorttermgains">Balance the long game and the short term gains</a></li>
-<li><a href="#alwaysbeclosing">Always be closing</a></li>
+<li><a href="#explore-explore-explore">Explore, explore, explore</a></li>
+<li><a href="#strike-quickly-and-with-purpose">Strike quickly and with purpose</a></li>
+<li><a href="#balance-the-long-game-and-the-short-term-gains">Balance the long game and the short term gains</a></li>
+<li><a href="#always-be-closing">Always be closing</a></li>
 </ul>
 </li>
-<li><a href="#closingthoughts">Closing Thoughts</a></li>
+<li><a href="#closing-thoughts">Closing Thoughts</a></li>
 </ul>
 
 <br />
@@ -48,10 +50,6 @@ Generals.io is a realtime multiplayer strategy game that is like the game Risk; 
 There is no foolproof strategy to win. In classic mode, there are 8 simultaneous players on the map all vying for territory. Because I need to justify spending so much time playing a javascript web game, here I describe my strategy for competing, and then abstract the specific tactics into real life lessons we can use to win at the game of life. (Here is another way to win at life: [Do These 4 Things Every Day](https://tonyy.in/do-these-4-things-every-day/))
 
 <br />
-
-> *Interested in cryptocurrency like Bitcoin? **[Sign up for Coinbase](https://www.coinbase.com/join/527af8b8e59746fe9c00003f)** using my referral code (already linked) and we both get $10!*
-
-<br>
 
 ## Strategies
 

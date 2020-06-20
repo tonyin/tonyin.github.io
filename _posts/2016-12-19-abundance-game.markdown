@@ -9,7 +9,6 @@ tags:
 - mind
 - strategy
 - self-improvement
-- featured
 ---
 
 We are talking about [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias). That we only see the ones that survive, and we do not see the potentially magnitudes-greater number of the ones that die. The most famous example is of the WW2 fighter planes that survived, with certain parts showing significant damage; instead of beefing up the damaged parts, the right answer was to beef up the *undamaged* parts.
